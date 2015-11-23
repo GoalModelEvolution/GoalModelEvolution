@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\StudioProjects\MobiGoal\app\libs\weibosdkcore.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06e990ea2d7b7ccd30cea6c5367314d7314d9f40">
+        <dex dex="D:\StudioProjects\MobiGoal\app\build\intermediates\pre-dexed\debug\weibosdkcore-76626f061bd52603940c8e2577829e9e4e16783e.jar" />
+    </item>
+
+</items>
