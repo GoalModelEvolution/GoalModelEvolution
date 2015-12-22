@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="agentUtilData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/agentUtilData.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
