@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><GoalModel name="get_a_book" description="This is a goal model about getting a book!">
+<?xml version="1.0" encoding="UTF-8"?>
+<GoalModel name="get_a_book" description="This is a goal model about getting a book!">
 
 	<ElementMachine id="0" type="GoalMachine" name="book acquired" level="0" description="tell book info">
 		<decomposition>0</decomposition>
